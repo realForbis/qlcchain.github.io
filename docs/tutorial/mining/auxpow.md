@@ -14,7 +14,7 @@ In here, QLC is auxiliary blockchain, BTC/LTC/Dash are parent blockchain.
 ### Use gqlc-miner
 gqlc-miner is just for develop testing with very poor performance.
 
-(NOT RECOMMANED)
+(NOT RECOMMENDED)
 
 ```bash 
 

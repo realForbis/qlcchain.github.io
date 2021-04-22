@@ -16,7 +16,7 @@ Each new block reward is then split up as follows:
 **Miner MUST have enough pledge vote (staking) to generate new blocks.**
 
 ### Use gqlc-miner
-(NOT RECOMMANED)
+(NOT RECOMMENDED)
 
 gqlc-miner is just for develop testing with very poor performance.
 
@@ -63,7 +63,7 @@ gqlc-pool -nodeurl http://127.0.0.1:9735 -algo SCRYPT -miner qlc_xxx
 crypto cpuminer (linux + windows)
 https://github.com/tpruvot/cpuminer-multi
 
-(NOT RECOMMANED)
+(NOT RECOMMENDED)
 
 ```bash
 

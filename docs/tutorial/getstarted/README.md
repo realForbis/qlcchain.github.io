@@ -35,3 +35,7 @@ please read the [documentation](../../api/qlcjs/) for more
 ## Golang SDK
 
 please read the [documentation](../../api/qlcgo/) for more
+
+## Python SDK
+
+please read the [documentation](../../api/pyqlc/) for more
